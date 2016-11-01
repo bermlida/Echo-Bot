@@ -1,0 +1,911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setResolveSourcesMethod"
+			],
+			[
+				"setR",
+				"setResolveHandlerMethod〔function〕"
+			],
+			[
+				"RouteT",
+				"RouteTrait〔namespace〕"
+			],
+			[
+				"reso",
+				"$resolve_handler_method〔variable〕"
+			],
+			[
+				"res",
+				"$resolve_handler_method〔variable〕"
+			],
+			[
+				"get",
+				"getResolveHandlerMethod"
+			],
+			[
+				"stub_",
+				"$stub_param_sources〔variable〕"
+			],
+			[
+				"return",
+				"returnCallback〔function〕"
+			],
+			[
+				"toke",
+				"$tokens〔variable〕"
+			],
+			[
+				"stub",
+				"$stub_tokens〔variable〕"
+			],
+			[
+				"assertE",
+				"assertEquals〔function〕"
+			],
+			[
+				"stub_n",
+				"$stub_name〔variable〕"
+			],
+			[
+				"name",
+				"name_prefix"
+			],
+			[
+				"route",
+				"routes〔variable〕"
+			],
+			[
+				"getRoute",
+				"getRoutes"
+			],
+			[
+				"RouteColl",
+				"RouteCollectionTraitTest\tRouteCollectionTraitTest"
+			],
+			[
+				"R",
+				"Route〔class〕"
+			],
+			[
+				"asserti",
+				"assertInstanceOf〔function〕"
+			],
+			[
+				"coll",
+				"$collection〔variable〕"
+			],
+			[
+				"off",
+				"$offset〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"rout",
+				"$route_without_name〔variable〕"
+			],
+			[
+				"ass",
+				"assertEquals〔function〕"
+			],
+			[
+				"RouteCol",
+				"RouteCollection"
+			],
+			[
+				"PHPUni",
+				"PHPUnit_Util_Test〔class〕"
+			],
+			[
+				"item",
+				"$item_name〔variable〕"
+			],
+			[
+				"item_",
+				"item_prototype"
+			],
+			[
+				"up",
+				"uploaded_files"
+			],
+			[
+				"S",
+				"ServerRequest〔class〕"
+			],
+			[
+				"e",
+				"expectException〔function〕"
+			],
+			[
+				"comp",
+				"$compare_name〔variable〕"
+			],
+			[
+				"Refle",
+				"ReflectionFunction"
+			],
+			[
+				"path",
+				"$path_prefix〔variable〕"
+			],
+			[
+				"hand",
+				"$handler〔variable〕"
+			],
+			[
+				"c",
+				"cache_path〔variable〕"
+			],
+			[
+				"method",
+				"method_exists〔function〕"
+			],
+			[
+				"requ",
+				"$request〔variable〕"
+			],
+			[
+				"Rout",
+				"RouteCollection〔class〕"
+			],
+			[
+				"dis",
+				"dispatcher〔variable〕"
+			],
+			[
+				"cust",
+				"custom_setting"
+			],
+			[
+				"judge",
+				"judgeValidSource"
+			],
+			[
+				"ge",
+				"getFullPath〔function〕"
+			],
+			[
+				"preg_replace",
+				"preg_replace_callback"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"com",
+				"$compare_methods〔variable〕"
+			],
+			[
+				"compar",
+				"$compare_path〔variable〕"
+			],
+			[
+				"se",
+				"searchRoute〔function〕"
+			],
+			[
+				"Route",
+				"Router"
+			],
+			[
+				"rou",
+				"routes〔variable〕"
+			],
+			[
+				"implo",
+				"implements〔keyword〕"
+			],
+			[
+				"is_a",
+				"is_a〔function〕"
+			],
+			[
+				"array",
+				"array〔function〕"
+			],
+			[
+				"call_user",
+				"call_user_func_array〔function〕"
+			],
+			[
+				"jud",
+				"$judge_result〔variable〕"
+			],
+			[
+				"pat",
+				"$path〔variable〕"
+			],
+			[
+				"array_m",
+				"array_merge〔function〕"
+			],
+			[
+				"strto",
+				"strtoupper〔function〕"
+			],
+			[
+				"array_un",
+				"array_unshift〔function〕"
+			],
+			[
+				"call",
+				"callClosure"
+			],
+			[
+				"cons",
+				"$constructor〔variable〕"
+			],
+			[
+				"clo",
+				"$closure〔variable〕"
+			],
+			[
+				"v",
+				"$value〔variable〕"
+			],
+			[
+				"pa",
+				"$params〔variable〕"
+			],
+			[
+				"pro",
+				"$property_value〔variable〕"
+			],
+			[
+				"entity",
+				"$entity_proxy〔variable〕"
+			],
+			[
+				"class",
+				"class_exists〔function〕"
+			],
+			[
+				"Enti",
+				"EntityProxy〔class〕"
+			],
+			[
+				"E",
+				"EntityProxyConstraint〔interface〕"
+			],
+			[
+				"Runn",
+				"RuntimeException"
+			],
+			[
+				"en",
+				"entity_proxy〔variable〕"
+			],
+			[
+				"isP",
+				"isProtected〔function〕"
+			],
+			[
+				"prop",
+				"$property〔variable〕"
+			],
+			[
+				"is",
+				"isProtected〔function〕"
+			],
+			[
+				"metho",
+				"method_exists〔function〕"
+			],
+			[
+				"command",
+				"$command_function〔variable〕"
+			],
+			[
+				"sc",
+				"scripts〔variable〕"
+			],
+			[
+				"script",
+				"$script〔variable〕"
+			],
+			[
+				"ReflectionP",
+				"ReflectionProperty〔class〕"
+			],
+			[
+				"F",
+				"Foundations〔namespace〕"
+			],
+			[
+				"__",
+				"__CLASS__"
+			],
+			[
+				"anno",
+				"annotationReader"
+			],
+			[
+				"UserRepos",
+				"UserRepositoryFacade"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"flu",
+				"fluent_interface"
+			],
+			[
+				"sting",
+				"$string2〔variable〕"
+			],
+			[
+				"Ann",
+				"AnnotationReader"
+			],
+			[
+				"proper",
+				"property"
+			],
+			[
+				"prope",
+				"properties"
+			],
+			[
+				"user",
+				"$user_repository〔variable〕"
+			],
+			[
+				"Reflect",
+				"ReflectionClass"
+			],
+			[
+				"propery",
+				"$property_value〔variable〕"
+			],
+			[
+				"resp",
+				"response\tL5 Response "
+			],
+			[
+				"Upd",
+				"UpdateUserRequest〔namespace〕"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"user_",
+				"user_repository"
+			],
+			[
+				"to",
+				"toObject〔function〕"
+			],
+			[
+				"resul",
+				"result_data"
+			],
+			[
+				"result",
+				"result_data〔variable〕"
+			],
+			[
+				"std",
+				"stdClass"
+			],
+			[
+				"Elo",
+				"EloquentOrm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Git:pu ",
+		"selected_items":
+		[
+			[
+				"Git:pu ",
+				"Git: Push Current Branch"
+			],
+			[
+				"PHPUnit: ",
+				"PHPUnit: Open HTML Code Coverage in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Git: pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git: ",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git:pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git:fe",
+				"Git: Fetch"
+			],
+			[
+				"Git:co",
+				"Git: Commit history"
+			],
+			[
+				"Git:ch",
+				"Git: Change Branch"
+			],
+			[
+				"Git:",
+				"Git: Pull"
+			],
+			[
+				"Git:Pu",
+				"Git: Push"
+			],
+			[
+				"Git",
+				"Git: Push"
+			],
+			[
+				"Git:p",
+				"Git: Push"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CI - New Library"
+			],
+			[
+				"Git:P",
+				"Git: Push"
+			],
+			[
+				"Git:R",
+				"Git: Remote"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/admin/modules/import_db/controllers/import_db.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/admin/modules/import_db/models/import_model.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/batch/models/batch_model.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/register/controllers/register.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/batch/models/import_model.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/batch/controllers/batch.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/admin/controllers/admin_modules.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/cmapadmin/controllers/cmapadmin_modules.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/system/libraries/Controller.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/libraries/Controller.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/libraries/Modules_loader.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/controllers/initEp.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/config/index.html",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/models/sybase_model.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/models/ep_rawdata.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/models/ep_model.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/models/ep_mysql.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/myep_profile/modules/editor/group_intro/controllers/group_intro.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/eportfolio/application/modules/batch/controllers/batch_msdb.php",
+		"/home/tkb-user/projects/tkb_project_sites/ntin/geshi/contrib/example.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RouteTrait.php",
+		"/home/tkb-user/projects/module-extension/tests/RouteTraitTest.php",
+		"/home/tkb-user/projects/module-extension/tests/TestRouteModel.php",
+		"/home/tkb-user/projects/module-extension/tests/RouteTest.php",
+		"/home/tkb-user/projects/module-extension/tests/RouteGetterTraitTest.php",
+		"/home/tkb-user/projects/module-extension/tests/RouteCollectionTest.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Route.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RouteGetterTrait.php",
+		"/home/tkb-user/projects/module-extension/tests/RouteSetterTraitTest.php",
+		"/home/tkb-user/projects/module-extension/tests/RouteCollectionTraitTest.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RouteSetterTrait.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Interfaces/RouteCollectionInterface.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RouteCollectionTrait.php",
+		"/home/tkb-user/projects/module-extension/src/Router/RouteCollection.php",
+		"/home/tkb-user/projects/module-extension/tests/TestHandlers.php",
+		"/home/tkb-user/projects/module-extension/tests/TestParamHandlers.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Prototypes/RouteDispatcherPrototype.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Router.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Interfaces/RouteInterface.php",
+		"/home/tkb-user/projects/tkb_project_sites/test.php",
+		"/home/tkb-user/projects/module-extension/composer.json",
+		"/home/tkb-user/projects/module-extension/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+		"/home/tkb-user/projects/module-extension/vendor/phpunit/phpunit/src/Framework/Assert.php",
+		"/home/tkb-user/projects/module-extension/phpunit.xml",
+		"/home/tkb-user/projects/module-extension/tests/test_test.php",
+		"/home/tkb-user/projects/module-extension/text.php",
+		"/home/tkb-user/projects/module-extension/vendor/composer/autoload_static.php",
+		"/home/tkb-user/projects/module-extension/src/Router/RouteDispatcher.php",
+		"/home/tkb-user/projects/module-extension/src/Router/temp/DefaultRouteDispatcher.php",
+		"/home/tkb-user/projects/module-extension/vendor/composer/autoload_psr4.php",
+		"/home/tkb-user/projects/module-extension/src/Router/RuleRouteDispatcher.php",
+		"/home/tkb-user/projects/module-extension/src/Router/RouteHandler.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Interfaces/RouteDispatcherInterface.php",
+		"/home/tkb-user/projects/module-extension/src/Router/temp/Router.php",
+		"/home/tkb-user/projects/module-extension/README.md",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RouterRegisterTrait.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RouteCollectionTrait.php.tmep",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RouteCollectionAccessTrait.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Traits/RoutePropertyTrait.php",
+		"/home/tkb-user/projects/module-extension/.gitignore",
+		"/home/tkb-user/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/tkb-user/projects/module-extension/src/Router/question_text.php",
+		"/home/tkb-user/projects/module-extension/src/Router/RegisterRuleFeature.php",
+		"/home/tkb-user/projects/module-extension/src/Router/RouteSetter.php",
+		"/home/tkb-user/projects/module-extension/src/Router/RouteTrait.php",
+		"/home/tkb-user/projects/module-extension/src/Router/UserSettings.php",
+		"/home/tkb-user/projects/module-extension/src/Router/Users.php",
+		"/home/tkb-user/文件/Projects/module-extension.sublime-project",
+		"/home/tkb-user/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/tkb-user/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Constraints/DirectorConstraints.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Builder.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Director.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Foundations/EntityProxy.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Foundations/Repository.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Foundations/Service.php",
+		"/home/tkb-user/projects/module-extension/tests/ModuleExtension/Facade.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Foundations/Library.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Features/ScriptAccessFeature.php",
+		"/home/tkb-user/projects/test_client/test.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Constraints/EntityProxyConstraint.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Constraints/EntityConstraint.php",
+		"/home/tkb-user/projects/module-extension/tests/ModuleExtension/TestServiceFacade.php",
+		"/home/tkb-user/projects/module-extension/tests/ModuleExtension/TestService.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Foundations/Facade.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Features/MethodAccessFeature.php",
+		"/home/tkb-user/projects/module-extension/src/ModuleExtension/Features/ModuleAccessFeature.php",
+		"/home/tkb-user/projects/laravel_framework/app/Http/Controllers/Controller.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/mockery/mockery/library/Mockery/VerificationDirector.php",
+		"/home/tkb-user/projects/laravel_framework/app/Providers/AuthServiceProvider.php",
+		"/home/tkb-user/projects/laravel_framework/app/Http/Controllers/UsersController.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Foundation/Console/KeyGenerateCommand.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Console/Command.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/symfony/console/Command/Command.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/paragonie/random_compat/lib/random_int.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/paragonie/random_compat/lib/random_bytes_openssl.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/paragonie/random_compat/lib/cast_to_int.php",
+		"/home/tkb-user/projects/laravel_framework/config/app.php",
+		"/home/tkb-user/文件/Line 工作群組回報/20160721",
+		"/home/tkb-user/文件/Line 工作群組回報/20160720",
+		"/home/tkb-user/文件/Line 工作群組回報/20160722",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
+		"/home/tkb-user/projects/laravel_framework/app/Providers/AppServiceProvider.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Foundations/Library.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Repositories/UserRepository.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Foundations/Repository.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Foundations/Facade.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Facades/UserRepositoryFacade.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Foundations/HelpersFacade.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/mockery/mockery/library/Mockery/Exception/RuntimeException.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/doctrine/instantiator/tests/DoctrineTest/InstantiatorTestAsset/ExceptionAsset.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/Annotation/IgnoreAnnotation.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Facades/CommonHelpersFacade.php",
+		"/home/tkb-user/projects/laravel_framework/composer.json",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Helpers/ArrayHelpers.php",
+		"/home/tkb-user/projects/laravel_framework/app/Models/Helpers/CommonHelpers.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/home/tkb-user/projects/laravel_framework/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/Annotation.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"-eportfolio/assets/*.*",
+			"",
+			"eportfolio/application/",
+			"-geshi/, -system/, -temp/, -user_guide/, -eportfolio/font, -eportfolio/assets/, -eportfolio/images",
+			"-geshi/, -system/, -temp/, -user_guide, -eportfolio/font, -eportfolio/assets/, -eportfolio/images",
+			"",
+			"-vendor/, -reports/, -src/ModuleExtension/",
+			"-vendor/, -reports/",
+			"-vendor/",
+			"/src/Router/*.php",
+			"-reports/*.*, -src/ModuleExtension, -vendor",
+			"-reports/*.*, -src/ModuleExtension",
+			"-reports/*.*, -src/MoudleExtension",
+			"-reports/*.*",
+			"<src/router>",
+			"src/router",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sybase",
+			"function oldindex",
+			"import_db",
+			"import",
+			"batch",
+			"atch_msdb",
+			"import_model",
+			"class batch_",
+			"sybase",
+			"array_map",
+			"collection",
+			"empty",
+			"src/ModuleExtension",
+			"empty",
+			"strto",
+			"empty",
+			"PHPUnit_Framework_TestCase",
+			"ReflectionClass",
+			"judge",
+			"judgeValid",
+			"trait",
+			"contract",
+			"function once",
+			"contract",
+			"random_bytes",
+			"extends Command",
+			"Crypt",
+			"Crypt_RSA",
+			" extends ServiceProvider",
+			"\\",
+			"throw new ",
+			"exception(",
+			"use RuntimeException",
+			"self::",
+			"function __get",
+			"class resolve",
+			"class resol",
+			"return new ",
+			"use \\ReflectionClass",
+			"__CLASS__",
+			"getContextualConcrete",
+			"getConcrete",
+			"$resolvedInstance",
+			"offsetGet",
+			"::setFacadeApplication",
+			"static::$app",
+			"$this->bindings",
+			"function bind",
+			"extends class AliasLoader",
+			"aliases",
+			"new Refle",
+			"function getFacadeRoot",
+			"getFacadeRoot",
+			"class Facade",
+			"function getFacadeAccessor",
+			"(array)",
+			"key(",
+			" = [])",
+			"function str_contains",
+			"abstract ",
+			"function __callStatic",
+			"__NAMESPACE__",
+			"class Facade",
+			"function array_add",
+			"function bind",
+			" = []",
+			" = new",
+			"extends command",
+			"class Make",
+			" extends Command",
+			"Illuminate\\Console\\Command",
+			" extends Command",
+			"function forceDelete",
+			"ResponseFactory",
+			"route",
+			"ResponseTrait",
+			"\\Illuminate\\Http\\Response",
+			"Response",
+			"function setResponse",
+			"->rules()",
+			"->response(",
+			"->response",
+			"response",
+			"Validator",
+			"function make",
+			"Validator",
+			"function rules",
+			"functin rules",
+			"function toJson",
+			"funhction make",
+			"function make",
+			"resolveMethodDependencies",
+			"print \"in resolveMethodDependencies<pre>\"; var_dump(11111111); exit();",
+			"function call",
+			"call",
+			"function sendRequestThroughRouter",
+			"function+ sendRequestThroughRouter",
+			"substituteBindings",
+			"dispatchToRoute",
+			"function dispatch",
+			"function getRouteForMethods",
+			"function match",
+			"function findRoute",
+			"MethodNotAllowedHttpException",
+			"User",
+			"__isset",
+			"function input",
+			"toJson",
+			"function toJ",
+			"toJ",
+			"to",
+			"function last",
+			"return $this",
+			" = []",
+			"function setAttribute",
+			"Eloquent",
+			"App\\User",
+			"function bootEloquent",
+			"bootEloquent",
+			"function bootEloquent",
+			"bootEloquent",
+			"function bootEloquent",
+			"function setAsGlobal",
+			"function connection",
+			"DB",
+			"setMeta",
+			"__",
+			"class OODBBean"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kernel.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
