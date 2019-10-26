@@ -38,7 +38,7 @@ class EchoController extends Controller
 
         if ($response->isSucceeded()) {
             echo 'Succeeded!';
-            return;
+            return 200;
         }
 
         // Failed
