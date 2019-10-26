@@ -35,13 +35,13 @@ class EchoController extends Controller
         
         $textMessageBuilder = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder('hello');
         $response = $bot->replyMessage($reply_token, $textMessageBuilder);
+        return 200;
+        // if ($response->isSucceeded()) {
+        //     echo 'Succeeded!';
+        //     return 200;
+        // }
 
-        if ($response->isSucceeded()) {
-            echo 'Succeeded!';
-            return 200;
-        }
-
-        // Failed
-        echo $response->getHTTPStatus() . ' ' . $response->getRawBody();
+        // // Failed
+        // echo $response->getHTTPStatus() . ' ' . $response->getRawBody();
     }
 }
