@@ -26,15 +26,21 @@ class EchoController extends Controller
      */
     public function index(Request $request)
     {
-        $input = request()->all();
+        $channel_id = '1653378500';
+        $channel_secret = 'cf202899151c09cc2f844f5326841b69';
 
-        $reply_token = array_get($input, 'events.0.replyToken');
+        $httpClient = new CurlHTTPClient();
+        $bot = new LINEBot($httpClient, ['channelSecret' => $channel_secret]);
 
-        $httpClient = new CurlHTTPClient('AJizgzjmcMNqqJUQOCqmT9WojBwfu9DM0LyjLaqWq9Ak5f8GRROdbDRk9R9ikfVskg72aXbGh7Kth+gDnplgoMmqhufHscXowUeRdmu8TkV/cmd5HJGQu4ppov/G4AUYPdXQ/20Vut+Z4nDRYmhafgdB04t89/1O/w1cDnyilFU=');
-        $bot = new LINE\LINEBot($httpClient, ['channelSecret' => 'cf202899151c09cc2f844f5326841b69']);
-        
-        $textMessageBuilder = new \LINE\LINEBot\MessageBuilder\TextMessageBuilder('hello');
+        $response = $bot->createChannelAccessToken($channel_id);
+        $channel_access_token = $response->getJSONDecodedBody();
+        $access_token = array_get($channel_access_token, 'access_token');
+
+        $input = $request->all();
+        $reply_token = array_get($input, 'events.0.replyToken');        
+        $textMessageBuilder = new TextMessageBuilder('hello');
         $response = $bot->replyMessage($reply_token, $textMessageBuilder);
+        
         return 200;
         // if ($response->isSucceeded()) {
         //     echo 'Succeeded!';
