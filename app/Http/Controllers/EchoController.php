@@ -41,7 +41,7 @@ class EchoController extends Controller
         $textMessageBuilder = new TextMessageBuilder('hello');
         $response = $bot->replyMessage($reply_token, $textMessageBuilder);
         
-        return 200;
+        return 'success';
         // if ($response->isSucceeded()) {
         //     echo 'Succeeded!';
         //     return 200;
