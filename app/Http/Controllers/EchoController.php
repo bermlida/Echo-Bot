@@ -34,8 +34,10 @@ class EchoController extends Controller
         $bot = new LINEBot($httpClient, ['channelSecret' => $channel_secret]);
 
         $input = $request->all();
-        $reply_token = array_get($input, 'events.0.replyToken');        
-        $textMessageBuilder = new TextMessageBuilder('hello');
+        $reply_token = array_get($input, 'events.0.replyToken');
+        $receive_message = array_get($input, 'events.0.message.text');
+
+        $textMessageBuilder = new TextMessageBuilder('echo you say: ' . $receive_message);
         $response = $bot->replyMessage($reply_token, $textMessageBuilder);
         
         return 'success';
