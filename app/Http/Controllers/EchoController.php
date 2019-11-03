@@ -32,7 +32,7 @@ class EchoController extends Controller
 
         $httpClient = new CurlHTTPClient($channel_access_token);
         $bot = new LINEBot($httpClient, ['channelSecret' => $channel_secret]);
-
+        print 12345; exit;
         $input = $request->all();
         $reply_token = array_get($input, 'events.0.replyToken');        
         $textMessageBuilder = new TextMessageBuilder('hello');
