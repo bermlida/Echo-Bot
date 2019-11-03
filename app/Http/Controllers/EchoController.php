@@ -29,7 +29,7 @@ class EchoController extends Controller
         $channel_id = '1653378500';
         $channel_secret = 'cf202899151c09cc2f844f5326841b69';
         $channel_access_token = 'GoB7zOHb0++xHZY00n6XjnAENU+y6uueDCS8spvDvT03NgC2uj0acP7+YH1hulAykg72aXbGh7Kth+gDnplgoMmqhufHscXowUeRdmu8TkUDcRQmY5raQYhcaVy74UcYyCQNDgsXR+jYxEJkFL9cGQdB04t89/1O/w1cDnyilFU=';
-        print 12345; return 12345;
+        //print 12345; return 12345;
         $httpClient = new CurlHTTPClient($channel_access_token);
         $bot = new LINEBot($httpClient, ['channelSecret' => $channel_secret]);
 

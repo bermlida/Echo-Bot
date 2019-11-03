@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/echo', 'EchoController@index')->name('echo');
+Route::post('/echo', 'EchoController@index')->name('echo');
