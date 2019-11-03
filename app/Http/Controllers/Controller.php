@@ -2,15 +2,12 @@
 
 namespace App\Http\Controllers;
 
-class LineController extends Controller
-{
-    /**
-     * 顯示已發布活動的列表畫面。
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function index()
-    {
+use Illuminate\Foundation\Bus\DispatchesJobs;
+use Illuminate\Routing\Controller as BaseController;
+use Illuminate\Foundation\Validation\ValidatesRequests;
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 
-    }
+class Controller extends BaseController
+{
+    use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
