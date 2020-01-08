@@ -20,16 +20,16 @@ class EchoController extends Controller
     }
 
     /**
-     * 
+     * echo receive message.
      *
      * @return \Illuminate\Http\Response
      */
     public function index(Request $request)
     {
-        $channel_id = '1653378500';
-        $channel_secret = 'cf202899151c09cc2f844f5326841b69';
-        $channel_access_token = 'GoB7zOHb0++xHZY00n6XjnAENU+y6uueDCS8spvDvT03NgC2uj0acP7+YH1hulAykg72aXbGh7Kth+gDnplgoMmqhufHscXowUeRdmu8TkUDcRQmY5raQYhcaVy74UcYyCQNDgsXR+jYxEJkFL9cGQdB04t89/1O/w1cDnyilFU=';
-        //print 12345; return 12345;
+        $channel_id = config('services.line.channel_id');
+        $channel_secret = config('services.line.channel_secret';
+        $channel_access_token = config('services.line.channel_access_token');
+        
         $httpClient = new CurlHTTPClient($channel_access_token);
         $bot = new LINEBot($httpClient, ['channelSecret' => $channel_secret]);
 
@@ -40,13 +40,12 @@ class EchoController extends Controller
         $textMessageBuilder = new TextMessageBuilder('echo you say: ' . $receive_message);
         $response = $bot->replyMessage($reply_token, $textMessageBuilder);
         
-        return 'success';
-        // if ($response->isSucceeded()) {
-        //     echo 'Succeeded!';
-        //     return 200;
-        // }
+        // Succeeded
+        if ($response->isSucceeded()) {
+            return 'Succeeded!';
+        }
 
-        // // Failed
-        // echo $response->getHTTPStatus() . ' ' . $response->getRawBody();
+        // Failed
+        return $response->getHTTPStatus() . ' ' . $response->getRawBody();
     }
 }
