@@ -1,7 +1,7 @@
 {
-    "name": "echo-bot",
+    "name": "bermlida/echo-bot",
     "description": "The Echo Bot",
-    "keywords": ["echo-bot", "chatbot"],
+    "keywords": ["echo-bot"],
     "license": "MIT",
     "type": "project",
     "require": {
