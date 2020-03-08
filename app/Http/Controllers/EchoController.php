@@ -27,7 +27,7 @@ class EchoController extends Controller
     public function index(Request $request)
     {
         $channel_id = config('services.line.channel_id');
-        $channel_secret = config('services.line.channel_secret';
+        $channel_secret = config('services.line.channel_secret');
         $channel_access_token = config('services.line.channel_access_token');
         
         $httpClient = new CurlHTTPClient($channel_access_token);
