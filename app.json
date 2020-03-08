@@ -9,7 +9,7 @@
   },
   "formation": {
   },
-  "name": "temp-project",
+  "name": "echo-bot",
   "scripts": {
   },
   "stack": "heroku-18"
