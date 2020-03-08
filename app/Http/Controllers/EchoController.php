@@ -37,7 +37,7 @@ class EchoController extends Controller
         $reply_token = array_get($input, 'events.0.replyToken');
         $receive_message = array_get($input, 'events.0.message.text');
 
-        $textMessageBuilder = new TextMessageBuilder('echo you say: ' . $receive_message);
+        $textMessageBuilder = new TextMessageBuilder('echo you say：' . $receive_message);
         $response = $bot->replyMessage($reply_token, $textMessageBuilder);
         
         // Succeeded
